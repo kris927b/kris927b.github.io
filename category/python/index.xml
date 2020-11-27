@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Kristian Nørgaard Jensen</title>
+    <link>kris927b.github.io/category/python/</link>
+      <atom:link href="kris927b.github.io/category/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 14:25:55 +0200</lastBuildDate>
+    <image>
+      <url>/kris927b.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Python</title>
+      <link>kris927b.github.io/category/python/</link>
+    </image>
+    
+    <item>
+      <title>NEAT Wrapper</title>
+      <link>kris927b.github.io/project/neat/</link>
+      <pubDate>Tue, 14 Jul 2020 14:25:55 +0200</pubDate>
+      <guid>kris927b.github.io/project/neat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humour Headlines</title>
+      <link>kris927b.github.io/project/humorheadlines/</link>
+      <pubDate>Tue, 14 Jul 2020 13:40:28 +0200</pubDate>
+      <guid>kris927b.github.io/project/humorheadlines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
