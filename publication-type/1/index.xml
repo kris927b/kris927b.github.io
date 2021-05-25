@@ -5,12 +5,20 @@
     <link>kris927b.github.io/publication-type/1/</link>
       <atom:link href="kris927b.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/kris927b.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>kris927b.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>De-identification of Privacy-related Entities in Job Postings</title>
+      <link>kris927b.github.io/publication/jobstack/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>kris927b.github.io/publication/jobstack/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DAN&#43;: Danish Nested Named Entities and Lexical Normalization</title>

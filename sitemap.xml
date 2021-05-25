@@ -3,32 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>kris927b.github.io/publication-type/1/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/authors/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/author/barbara-plank/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/tag/de-identification/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/publication/jobstack/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/author/kristian-n%C3%B8rgaard-jensen/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/tag/lstm/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/tag/machamp/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/author/mike-zhang/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/publication_types/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/publication/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/tags/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>kris927b.github.io/tag/transformers/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>kris927b.github.io/publication-type/3/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>kris927b.github.io/authors/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/barbara-plank/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>kris927b.github.io/publication/semeval-2020/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/kristian-n%C3%B8rgaard-jensen/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,23 +93,8 @@
   </url>
   
   <url>
-    <loc>kris927b.github.io/publication_types/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>kris927b.github.io/author/thai-wang/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication-type/1/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -109,11 +144,6 @@
   
   <url>
     <loc>kris927b.github.io/category/python/</loc>
-    <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tags/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
   </url>
   
