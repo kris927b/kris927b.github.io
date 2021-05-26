@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thai Wang | Academic</title>
+    <link>/authors/thai-wang/</link>
+      <atom:link href="/authors/thai-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thai Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Thai Wang</title>
+      <link>/authors/thai-wang/</link>
+    </image>
+    
+    <item>
+      <title>Buhscitu at SEMEVAL-2020 Task 7: Assessing Humour in Edited NewsHeadlines using Hand-Crafted Features and Online Knowledge Bases</title>
+      <link>/publication/semeval-2020/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/semeval-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humour Headlines</title>
+      <link>/project/humorheadlines/</link>
+      <pubDate>Tue, 14 Jul 2020 13:40:28 +0200</pubDate>
+      <guid>/project/humorheadlines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BSc Thesis: Assessing Humour in Edited News Headlines using Hand-Crafted Features and Online Knowledge Bases</title>
+      <link>/publication/bsc-thesis/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bsc-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain Sentiment Classification using Vector Embedded Domain Representation</title>
+      <link>/publication/nodalida-paper/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nodalida-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

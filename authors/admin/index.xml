@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristian Nørgaard Jensen | Academic</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristian Nørgaard Jensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kristian Nørgaard Jensen</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>De-identification of Privacy-related Entities in Job Postings</title>
+      <link>/publication/jobstack/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jobstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buhscitu at SEMEVAL-2020 Task 7: Assessing Humour in Edited NewsHeadlines using Hand-Crafted Features and Online Knowledge Bases</title>
+      <link>/publication/semeval-2020/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/semeval-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAN&#43;: Danish Nested Named Entities and Lexical Normalization</title>
+      <link>/publication/dan_plus/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dan_plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEAT Wrapper</title>
+      <link>/project/neat/</link>
+      <pubDate>Tue, 14 Jul 2020 14:25:55 +0200</pubDate>
+      <guid>/project/neat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stan SlackBot</title>
+      <link>/project/stan/</link>
+      <pubDate>Tue, 14 Jul 2020 13:49:38 +0200</pubDate>
+      <guid>/project/stan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humour Headlines</title>
+      <link>/project/humorheadlines/</link>
+      <pubDate>Tue, 14 Jul 2020 13:40:28 +0200</pubDate>
+      <guid>/project/humorheadlines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BSc Thesis: Assessing Humour in Edited News Headlines using Hand-Crafted Features and Online Knowledge Bases</title>
+      <link>/publication/bsc-thesis/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bsc-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain Sentiment Classification using Vector Embedded Domain Representation</title>
+      <link>/publication/nodalida-paper/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nodalida-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

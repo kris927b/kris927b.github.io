@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barbara Plank | Academic</title>
+    <link>/authors/barbara-plank/</link>
+      <atom:link href="/authors/barbara-plank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Barbara Plank</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Barbara Plank</title>
+      <link>/authors/barbara-plank/</link>
+    </image>
+    
+    <item>
+      <title>De-identification of Privacy-related Entities in Job Postings</title>
+      <link>/publication/jobstack/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/jobstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buhscitu at SEMEVAL-2020 Task 7: Assessing Humour in Edited NewsHeadlines using Hand-Crafted Features and Online Knowledge Bases</title>
+      <link>/publication/semeval-2020/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/semeval-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAN&#43;: Danish Nested Named Entities and Lexical Normalization</title>
+      <link>/publication/dan_plus/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dan_plus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
