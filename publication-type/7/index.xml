@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>7 | Kristian Nørgaard Jensen</title>
-    <link>kris927b.github.io/publication-type/7/</link>
-      <atom:link href="kris927b.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <title>7 | Academic</title>
+    <link>/publication-type/7/</link>
+      <atom:link href="/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/kris927b.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>7</title>
-      <link>kris927b.github.io/publication-type/7/</link>
+      <link>/publication-type/7/</link>
     </image>
     
     <item>
       <title>BSc Thesis: Assessing Humour in Edited News Headlines using Hand-Crafted Features and Online Knowledge Bases</title>
-      <link>kris927b.github.io/publication/bsc-thesis/</link>
+      <link>/publication/bsc-thesis/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>kris927b.github.io/publication/bsc-thesis/</guid>
+      <guid>/publication/bsc-thesis/</guid>
       <description></description>
     </item>
     

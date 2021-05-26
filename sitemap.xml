@@ -1,222 +1,127 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>kris927b.github.io/publication-type/1/</loc>
+    <loc>/authors/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/authors/</loc>
+  </url><url>
+    <loc>/publication-type/1/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/barbara-plank/</loc>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/de-identification/</loc>
+  </url><url>
+    <loc>/authors/barbara-plank/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication/jobstack/</loc>
+  </url><url>
+    <loc>/publication/jobstack/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/kristian-n%C3%B8rgaard-jensen/</loc>
+  </url><url>
+    <loc>/authors/admin/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/</loc>
+  </url><url>
+    <loc>/authors/mike-zhang/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/lstm/</loc>
+  </url><url>
+    <loc>/publication_types/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/machamp/</loc>
+  </url><url>
+    <loc>/publication/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/mike-zhang/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication_types/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tags/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/transformers/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication-type/3/</loc>
+  </url><url>
+    <loc>/publication-type/3/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication/semeval-2020/</loc>
+  </url><url>
+    <loc>/publication/semeval-2020/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/marco-placenti/</loc>
+  </url><url>
+    <loc>/authors/marco-placenti/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/nicolaj-filrup-rasmussen/</loc>
+  </url><url>
+    <loc>/authors/nicolaj-filrup-rasmussen/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/thai-wang/</loc>
+  </url><url>
+    <loc>/authors/thai-wang/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication/dan_plus/</loc>
+  </url><url>
+    <loc>/publication/dan_plus/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/rob-van-der-goot/</loc>
+  </url><url>
+    <loc>/authors/rob-van-der-goot/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/categories/</loc>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/evolution/</loc>
+  </url><url>
+    <loc>/tag/evolution/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/neat/</loc>
+  </url><url>
+    <loc>/tag/neat/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/project/neat/</loc>
+  </url><url>
+    <loc>/project/neat/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/neural-network/</loc>
+  </url><url>
+    <loc>/tag/neural-network/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/openai-gym/</loc>
+  </url><url>
+    <loc>/tag/openai-gym/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/project/</loc>
+  </url><url>
+    <loc>/project/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/category/python/</loc>
+  </url><url>
+    <loc>/category/python/</loc>
     <lastmod>2020-07-14T14:25:55+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/bot/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-14T14:25:55+02:00</lastmod>
+  </url><url>
+    <loc>/tag/bot/</loc>
     <lastmod>2020-07-14T13:49:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/category/javascript/</loc>
+  </url><url>
+    <loc>/category/javascript/</loc>
     <lastmod>2020-07-14T13:49:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/slack/</loc>
+  </url><url>
+    <loc>/tag/slack/</loc>
     <lastmod>2020-07-14T13:49:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/project/stan/</loc>
+  </url><url>
+    <loc>/project/stan/</loc>
     <lastmod>2020-07-14T13:49:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/category/typescript/</loc>
+  </url><url>
+    <loc>/category/typescript/</loc>
     <lastmod>2020-07-14T13:49:38+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/deep-learning/</loc>
+  </url><url>
+    <loc>/tag/deep-learning/</loc>
     <lastmod>2020-07-14T13:40:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/project/humorheadlines/</loc>
+  </url><url>
+    <loc>/project/humorheadlines/</loc>
     <lastmod>2020-07-14T13:40:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/humour-intensity/</loc>
+  </url><url>
+    <loc>/tag/humour-intensity/</loc>
     <lastmod>2020-07-14T13:40:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/tag/nlp/</loc>
+  </url><url>
+    <loc>/tag/nlp/</loc>
     <lastmod>2020-07-14T13:40:28+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication-type/7/</loc>
+  </url><url>
+    <loc>/publication-type/7/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication/bsc-thesis/</loc>
+  </url><url>
+    <loc>/publication/bsc-thesis/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/publication/nodalida-paper/</loc>
+  </url><url>
+    <loc>/publication/nodalida-paper/</loc>
     <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/admin/</loc>
   </url>
-  
-  <url>
-    <loc>kris927b.github.io/author/kristian-n%C3%B8rgaard-jensen/</loc>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>kris927b.github.io/talk/</loc>
-  </url>
-  
 </urlset>

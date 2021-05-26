@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Humour Intensity | Kristian Nørgaard Jensen</title>
-    <link>kris927b.github.io/tag/humour-intensity/</link>
-      <atom:link href="kris927b.github.io/tag/humour-intensity/index.xml" rel="self" type="application/rss+xml" />
+    <title>Humour Intensity | Academic</title>
+    <link>/tag/humour-intensity/</link>
+      <atom:link href="/tag/humour-intensity/index.xml" rel="self" type="application/rss+xml" />
     <description>Humour Intensity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 13:40:28 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 13:40:28 +0200</lastBuildDate>
     <image>
-      <url>/kris927b.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Humour Intensity</title>
-      <link>kris927b.github.io/tag/humour-intensity/</link>
+      <link>/tag/humour-intensity/</link>
     </image>
     
     <item>
       <title>Humour Headlines</title>
-      <link>kris927b.github.io/project/humorheadlines/</link>
+      <link>/project/humorheadlines/</link>
       <pubDate>Tue, 14 Jul 2020 13:40:28 +0200</pubDate>
-      <guid>kris927b.github.io/project/humorheadlines/</guid>
+      <guid>/project/humorheadlines/</guid>
       <description></description>
     </item>
     
